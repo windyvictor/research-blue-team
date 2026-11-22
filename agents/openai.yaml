@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研 AI 蓝军"
+  short_description: "挑战选题、实验、论文与基金申请中的核心主张，用反例和对照检验判断；质疑强度按对结论的影响校准，只报会改变决定的问题"
+  default_prompt: "请用 $research-blue-team 检查这份研究材料最关键的主张，提出最强异议，说明依据和影响，给出能改变判断的最小验证；没有实质问题就直接说明。"
